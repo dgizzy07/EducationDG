@@ -1,3 +1,2 @@
-Account,Level,Date,Value,Company,testcolumn,
-4110,New York,2/12/2022,750,Workdaya ,inc ,test info
-
+Account,Level,Date,Value,Company
+4110,New York,2/12/2022,750,Workdaya
